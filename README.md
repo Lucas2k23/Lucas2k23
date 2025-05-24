@@ -5,7 +5,7 @@
 ## Sobre Mim
 
 Atualmente Técnico em Informática;  
-Focado em aprender C# e Windows Forms;  
+Focado em aprender C#, Windows Forms, desenvolvimento web com ASP.NET entre outras linguagens...;  
 ⚡ Apaixonado por programação, tecnologia e desenvolvimento de software;  
 Aberto a colaborações e novos aprendizados!
 
@@ -39,7 +39,8 @@ Aberto a colaborações e novos aprendizados!
 
 ## 🎯 Próximos objetivos
 
-- Aprender desenvolvimento web com ASP.NET  
+- Aprender desenvolvimento web com ASP.NET
+- Me aprofundar mais em banco de dados
 - Criar APIs RESTful com C#  
 - Participar de projetos colaborativos open-source  
 - Continuar aprimorando minhas habilidades em programação
